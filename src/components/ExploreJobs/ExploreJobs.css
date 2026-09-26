@@ -1,0 +1,336 @@
+/* Base Variables */
+:root {
+  --primary-text: #111827;
+  --secondary-text: #6b7280;
+  --accent-blue: #3b82f6;
+  --gold-accent: #d4af37; /* Golden border color */
+
+  --badge-bg: #f3f4f6;
+  --badge-text: #4b5563;
+
+  --card-bg: #ffffff;
+  --card-border: #f3f4f6;
+  --hover-shadow:
+    0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
+}
+
+.explore-jobs-section {
+  font-family:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    sans-serif;
+  padding: 4rem 2rem;
+  background-color: #fafafa;
+  color: var(--primary-text);
+  position: relative;
+}
+
+.explore-jobs-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Header Styles */
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.header-content {
+  max-width: 600px;
+}
+
+.header-content h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  color: var(--primary-text);
+}
+
+.header-content p {
+  color: var(--secondary-text);
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.see-more-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: var(--secondary-text);
+  font-weight: 500;
+  transition: color 0.3s ease;
+  white-space: nowrap;
+}
+
+.see-more-link:hover {
+  color: var(--primary-text);
+}
+
+/* Grid Layout */
+.jobs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+}
+
+/* Card Styles & Animations */
+.job-card {
+  background: var(--card-bg);
+  /* Use a 2px base border so it doesn't jump in size when hovered */
+  border: 2px solid var(--card-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    border-color 0.3s ease;
+  min-width: 0; /* prevents overflow inside grid tracks on narrow screens */
+}
+
+.job-card:hover {
+  transform: translateY(-6px); /* Pops up slightly */
+  box-shadow: var(--hover-shadow);
+  border-color: var(--gold-accent); /* Golden line around it */
+}
+
+/* Card Top Section */
+.job-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+}
+
+.logo-placeholder {
+  width: 50px;
+  height: 50px;
+  background-color: #f3f4f6;
+  color: #9ca3af;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  flex-shrink: 0;
+}
+
+.job-type-badge {
+  background-color: var(--badge-bg);
+  color: var(--badge-text);
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+/* Card Middle Section */
+.job-card-middle {
+  margin-bottom: 1.25rem;
+}
+
+.job-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem 0;
+  color: var(--primary-text);
+  overflow-wrap: break-word;
+}
+
+.company-name {
+  color: var(--secondary-text);
+  font-size: 0.95rem;
+  margin: 0;
+  overflow-wrap: break-word;
+}
+
+/* Card Info Section */
+.job-card-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.9rem;
+  color: var(--secondary-text);
+}
+
+.icon-location {
+  color: #ef4444; /* Red accent matching the image */
+  font-size: 1rem;
+}
+
+.icon-salary {
+  color: #22c55e; /* Green accent matching the image */
+  font-size: 1rem;
+}
+
+/* Divider */
+.card-divider {
+  border: none;
+  border-top: 1px solid #f3f4f6;
+  margin: 0 0 1.25rem 0;
+}
+
+/* Card Bottom Section */
+.job-card-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto; /* Pushes to bottom if cards vary in height */
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.time-posted {
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
+.quick-apply-btn {
+  background-color: #000000;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.6rem 1.2rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.quick-apply-btn:hover {
+  background-color: #1f2937;
+}
+
+/* Floating Action Button (FAB) */
+.fab-button {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: var(--primary-text);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition:
+    background-color 0.3s,
+    transform 0.2s;
+  z-index: 100;
+}
+
+.fab-button:hover {
+  transform: translateY(-3px);
+}
+
+/* ===================== Responsive ===================== */
+
+/* Tablet / small laptop */
+@media (max-width: 1024px) {
+  .explore-jobs-section {
+    padding: 3.5rem 1.75rem;
+  }
+
+  .jobs-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+/* Tablet portrait */
+@media (max-width: 768px) {
+  .explore-jobs-section {
+    padding: 3rem 1.5rem;
+  }
+
+  .header-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 2.25rem;
+  }
+
+  .header-content h2 {
+    font-size: 1.65rem;
+  }
+
+  .jobs-grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .job-card {
+    padding: 1.25rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .explore-jobs-section {
+    padding: 2.5rem 1rem;
+  }
+
+  .header-content h2 {
+    font-size: 1.4rem;
+  }
+
+  .header-content p {
+    font-size: 0.9rem;
+  }
+
+  .job-card-top {
+    margin-bottom: 1.1rem;
+  }
+
+  .logo-placeholder {
+    width: 42px;
+    height: 42px;
+  }
+
+  .job-title {
+    font-size: 1.1rem;
+  }
+
+  .job-card-bottom {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .quick-apply-btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .fab-button {
+    bottom: 18px;
+    right: 18px;
+    width: 42px;
+    height: 42px;
+    font-size: 1.1rem;
+  }
+}

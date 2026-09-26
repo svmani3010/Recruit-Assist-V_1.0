@@ -1,0 +1,517 @@
+/* General Wrapper to reset styles locally */
+.profile-jobdetailscard-wrapper {
+  font-family:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+  background-color: #f9fafb;
+  min-height: 100vh;
+  color: #333;
+}
+
+/* Navbar */
+.profile-jobdetailscard-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 16px 48px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.profile-jobdetailscard-nav-left {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.profile-jobdetailscard-nav-logo {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: #111827;
+}
+
+.profile-jobdetailscard-nav-links a {
+  text-decoration: none;
+  color: #6b7280;
+  margin-right: 24px;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.profile-jobdetailscard-nav-links a.profile-jobdetailscard-active-link {
+  color: #3b82f6;
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+
+.profile-jobdetailscard-nav-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.profile-jobdetailscard-nav-login {
+  text-decoration: none;
+  color: #374151;
+  font-weight: 500;
+}
+
+.profile-jobdetailscard-nav-register {
+  background-color: #111827;
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.profile-jobdetailscard-nav-recruiters {
+  text-decoration: none;
+  color: #3b82f6;
+  font-weight: 500;
+}
+
+/* Main Container */
+.profile-jobdetailscard-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 24px;
+}
+
+/* Top Banner */
+.profile-jobdetailscard-top-banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 24px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+
+.profile-jobdetailscard-banner-left {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.profile-jobdetailscard-logo-box {
+  width: 64px;
+  height: 64px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: #9ca3af;
+}
+
+.profile-jobdetailscard-job-title {
+  margin: 0 0 8px 0;
+  font-size: 1.75rem;
+  color: #111827;
+}
+
+.profile-jobdetailscard-company-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #6b7280;
+  font-size: 0.95rem;
+  margin-bottom: 12px;
+}
+
+.profile-jobdetailscard-company-name {
+  color: #4b5563;
+}
+
+.profile-jobdetailscard-tags-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.profile-jobdetailscard-tag {
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.profile-jobdetailscard-tag-blue {
+  background-color: #eff6ff;
+  color: #3b82f6;
+}
+
+.profile-jobdetailscard-tag-green {
+  background-color: #f0fdf4;
+  color: #22c55e;
+}
+
+.profile-jobdetailscard-salary-tag {
+  color: #6b7280;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.profile-jobdetailscard-banner-right {
+  display: flex;
+  gap: 12px;
+}
+
+.profile-jobdetailscard-bookmark-btn {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 10px 14px;
+  cursor: pointer;
+  font-size: 1.1rem;
+}
+
+.profile-jobdetailscard-apply-btn,
+.profile-jobdetailscard-apply-btn-large {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 24px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.profile-jobdetailscard-apply-btn:hover,
+.profile-jobdetailscard-apply-btn-large:hover {
+  background-color: #2563eb;
+}
+
+/* Body Layout */
+.profile-jobdetailscard-body-layout {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+}
+
+/* Sidebar */
+.profile-jobdetailscard-sidebar {
+  flex: 0 0 320px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.profile-jobdetailscard-sidebar-title {
+  font-size: 1.1rem;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #111827;
+}
+
+.profile-jobdetailscard-info-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.profile-jobdetailscard-info-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.profile-jobdetailscard-info-icon {
+  font-size: 1.25rem;
+  margin-top: 2px;
+}
+
+.profile-jobdetailscard-info-text {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+}
+
+.profile-jobdetailscard-info-text strong {
+  color: #111827;
+  margin-bottom: 4px;
+}
+
+.profile-jobdetailscard-info-text span {
+  color: #6b7280;
+}
+
+.profile-jobdetailscard-info-text span:last-child {
+  color: #3b82f6;
+}
+
+/* Main Content area */
+.profile-jobdetailscard-main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.profile-jobdetailscard-content-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 32px;
+}
+
+.profile-jobdetailscard-section-heading {
+  font-size: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: #111827;
+}
+
+.profile-jobdetailscard-paragraph {
+  color: #6b7280;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.profile-jobdetailscard-bullet-list {
+  color: #6b7280;
+  line-height: 1.6;
+  padding-left: 20px;
+  margin: 0;
+}
+
+.profile-jobdetailscard-bullet-list li {
+  margin-bottom: 12px;
+}
+
+.profile-jobdetailscard-bullet-list li::marker {
+  color: #3b82f6;
+}
+
+.profile-jobdetailscard-perks-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.profile-jobdetailscard-perk-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #374151;
+  font-weight: 500;
+}
+
+.profile-jobdetailscard-perk-icon {
+  background-color: #f0fdf4;
+  color: #22c55e;
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.25rem;
+}
+
+/* Upload & Apply Area */
+.profile-jobdetailscard-apply-section {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.profile-jobdetailscard-upload-before,
+.profile-jobdetailscard-upload-after {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 24px;
+  width: 100%;
+  border: 2px dashed #cbd5e1;
+  text-align: center;
+}
+
+.profile-jobdetailscard-upload-title {
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #111827;
+}
+
+.profile-jobdetailscard-upload-subtitle {
+  color: #6b7280;
+  margin-bottom: 16px;
+  font-size: 0.9rem;
+}
+
+.profile-jobdetailscard-file-input {
+  display: block;
+  margin: 0 auto;
+  color: #374151;
+}
+
+.profile-jobdetailscard-success-message {
+  color: #059669;
+  font-size: 1.1rem;
+  margin-bottom: 16px;
+}
+/* ===================================================================== */
+/*  StickyEnhancements.css                                               */
+/*  Import this AFTER your existing MarketPlace.css / ProfileJob...css   */
+/*  in both files so nothing here gets overridden by older rules.        */
+/* ===================================================================== */
+
+:root {
+  --navbar-height: 64px; /* adjust to match your actual .profile-jobdetailscard-navbar height */
+}
+
+/* Invisible 1px trigger marker used by useStickyBar — takes no visual space */
+.sticky-sentinel {
+  height: 1px;
+  width: 100%;
+  pointer-events: none;
+}
+
+/* ===================================================================== */
+/*  PROFILE JOB DETAILS — sticky nav + compact banner                    */
+/* ===================================================================== */
+
+/* The existing top nav becomes sticky so it's always reachable */
+.profile-jobdetailscard-navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1002;
+}
+
+.profile-jobdetailscard-compact-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1001;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 12px 32px;
+  background: #ffffff;
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.08);
+  border-bottom: 1px solid #eef0f3;
+
+  transform: translateY(-110%);
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    transform 0.32s cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 0.24s ease;
+}
+
+.profile-jobdetailscard-compact-bar.is-visible {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.profile-jobdetailscard-compact-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.profile-jobdetailscard-compact-logo {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #6b7280;
+}
+
+.profile-jobdetailscard-compact-text {
+  min-width: 0;
+}
+
+.profile-jobdetailscard-compact-title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #111827;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.profile-jobdetailscard-compact-company {
+  font-size: 12.5px;
+  color: #6b7280;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.profile-jobdetailscard-compact-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.profile-jobdetailscard-compact-bookmark-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 7px;
+  color: #374151;
+  cursor: pointer;
+  transition:
+    background 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.profile-jobdetailscard-compact-bookmark-btn:hover {
+  background: #f9fafb;
+  border-color: #d1d5db;
+}
+
+.profile-jobdetailscard-compact-apply-btn {
+  background: #3b82f6;
+  color: #fff;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s ease;
+}
+
+.profile-jobdetailscard-compact-apply-btn:hover {
+  background: #2563eb;
+}
+
+@media (max-width: 640px) {
+  .profile-jobdetailscard-compact-bar {
+    padding: 8px 16px;
+  }
+  .profile-jobdetailscard-compact-company {
+    display: none;
+  }
+}

@@ -1,0 +1,313 @@
+/* ===== Footer shell ===== */
+.site-footer {
+  position: relative;
+  overflow: hidden;
+  background: #0f1420;
+  padding: 64px 80px 32px;
+  color: #cbd5e1;
+  font-family:
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    Roboto,
+    sans-serif;
+}
+
+/* ===== Animated background (from background-boxes.html) ===== */
+.boxes-container {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.boxes-mask {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: #0f1420;
+  z-index: 2;
+  pointer-events: none;
+  -webkit-mask-image: radial-gradient(transparent, white);
+  mask-image: radial-gradient(transparent, white);
+}
+
+.boxes-grid {
+  position: absolute;
+  left: 0;
+  top: -30%;
+  padding: 1rem;
+  display: flex;
+  width: 160%;
+  height: 160%;
+  z-index: 1;
+  transform: translate(-10%, -30%) skewX(-48deg) skewY(14deg) scale(0.7)
+    rotate(0deg) translateZ(0);
+}
+
+.box-row {
+  width: 4rem;
+  height: 2rem;
+  border-left: 1px solid #263042;
+  position: relative;
+}
+
+.box-cell {
+  width: 4rem;
+  height: 2rem;
+  border-right: 1px solid #263042;
+  border-top: 1px solid #263042;
+  position: relative;
+  background-color: transparent;
+}
+
+.box-cell svg {
+  position: absolute;
+  height: 1.5rem;
+  width: 2.5rem;
+  top: -14px;
+  left: -22px;
+  color: #263042;
+  stroke-width: 1px;
+  pointer-events: none;
+}
+
+/* ===== Footer content (sits above the animated background) ===== */
+.footer-content {
+  position: relative;
+  z-index: 10;
+  max-width: 1280px;
+  margin: 0 auto;
+  /* Let mouse events fall through to the animated box-grid underneath,
+     except where explicitly re-enabled below (links). This way hovering
+     text/whitespace still animates the boxes, but hovering an actual
+     link only shows the link's own hover state, with no box highlight
+     underneath it. */
+  pointer-events: none;
+}
+
+.footer-content a {
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.footer-top {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr 1fr 1fr;
+  gap: 32px;
+}
+
+/* Brand block */
+.footer-brand {
+  max-width: 420px;
+}
+
+.brand-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.brand-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  background: #ffffff;
+  color: #0f1420;
+  font-size: 18px;
+  flex-shrink: 0;
+}
+
+.brand-name {
+  font-size: 22px;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+}
+
+.brand-desc {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #9aa5b5;
+  margin: 0 0 24px;
+}
+
+.social-row {
+  display: flex;
+  gap: 12px;
+}
+
+.social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: #232b3a;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+/* Link columns */
+.footer-col h4 {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 20px;
+}
+
+.footer-col a {
+  display: block;
+  color: #9aa5b5;
+  text-decoration: none;
+  font-size: 15px;
+  margin-bottom: 16px;
+}
+
+.footer-col a:hover {
+  color: #ffffff;
+}
+
+/* Divider + bottom row */
+.footer-divider {
+  border: none;
+  border-top: 1px solid #232b3a;
+  margin: 48px 0 24px;
+}
+
+.footer-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 13px;
+  color: #6b7688;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.footer-bottom-links {
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+.footer-bottom-links a {
+  color: #6b7688;
+  text-decoration: none;
+}
+
+.footer-bottom-links a:hover {
+  color: #ffffff;
+}
+
+/* ===================== Responsive ===================== */
+
+/* Small laptop / tablet landscape */
+@media (max-width: 1100px) {
+  .site-footer {
+    padding: 56px 48px 28px;
+  }
+
+  .footer-top {
+    gap: 28px;
+  }
+}
+
+/* Tablet portrait: 2-column grid, brand spans full width */
+@media (max-width: 900px) {
+  .footer-top {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 40px;
+  }
+  .footer-brand {
+    grid-column: 1 / -1;
+    max-width: 100%;
+  }
+}
+
+/* Small tablet */
+@media (max-width: 700px) {
+  .site-footer {
+    padding: 48px 32px 24px;
+  }
+
+  .footer-top {
+    gap: 24px;
+    row-gap: 36px;
+  }
+
+  .footer-divider {
+    margin: 40px 0 20px;
+  }
+}
+
+/* Mobile: single column */
+@media (max-width: 560px) {
+  .site-footer {
+    padding: 40px 24px 24px;
+  }
+
+  .footer-top {
+    grid-template-columns: 1fr;
+    row-gap: 32px;
+  }
+
+  .brand-desc {
+    margin-bottom: 20px;
+  }
+
+  .footer-col h4 {
+    margin-bottom: 14px;
+  }
+
+  .footer-col a {
+    margin-bottom: 12px;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .footer-bottom-links {
+    gap: 20px;
+  }
+}
+
+/* Small mobile */
+@media (max-width: 380px) {
+  .site-footer {
+    padding: 32px 18px 20px;
+  }
+
+  .brand-name {
+    font-size: 19px;
+  }
+
+  .brand-icon {
+    width: 34px;
+    height: 34px;
+    font-size: 16px;
+  }
+
+  .social-icon {
+    width: 34px;
+    height: 34px;
+    font-size: 13px;
+  }
+
+  .footer-bottom-links {
+    gap: 14px;
+    flex-direction: column;
+  }
+}

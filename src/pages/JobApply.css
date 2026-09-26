@@ -1,0 +1,181 @@
+.jobapply-wrapper {
+  font-family:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+  background-color: #f9fafb;
+  min-height: 100vh;
+  color: #333;
+  padding: 40px 24px;
+}
+
+.jobapply-container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.jobapply-back-link {
+  background: none;
+  border: none;
+  color: #6b7280;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 16px;
+}
+
+.jobapply-back-link:hover {
+  color: #3b82f6;
+}
+
+.jobapply-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 32px;
+  position: relative;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.jobapply-demo-badge {
+  display: inline-block;
+  background-color: #fef3c7;
+  color: #b45309;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  margin-bottom: 16px;
+}
+
+.jobapply-heading {
+  margin: 0 0 8px 0;
+  font-size: 1.5rem;
+  color: #111827;
+}
+
+.jobapply-subtext {
+  color: #6b7280;
+  margin: 0 0 24px 0;
+  font-size: 0.95rem;
+}
+
+.jobapply-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.jobapply-field-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.jobapply-field-group label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #374151;
+}
+
+.jobapply-field-group input[type="text"],
+.jobapply-field-group input[type="email"],
+.jobapply-field-group textarea {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 0.95rem;
+  font-family: inherit;
+  color: #111827;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+.jobapply-field-group input[type="text"]:focus,
+.jobapply-field-group input[type="email"]:focus,
+.jobapply-field-group textarea:focus {
+  border-color: #3b82f6;
+}
+
+.jobapply-field-group input[type="file"] {
+  font-size: 0.9rem;
+  color: #374151;
+}
+
+.jobapply-field-group textarea {
+  resize: vertical;
+}
+
+.jobapply-file-confirm {
+  font-size: 0.85rem;
+  color: #059669;
+}
+
+.jobapply-btn-primary {
+  display: inline-block;
+  text-align: center;
+  background-color: #3b82f6;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.jobapply-btn-primary:hover {
+  background-color: #2563eb;
+}
+
+.jobapply-btn-secondary {
+  display: inline-block;
+  text-align: center;
+  background-color: #ffffff;
+  color: #374151;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.jobapply-btn-secondary:hover {
+  border-color: #3b82f6;
+  color: #3b82f6;
+}
+
+.jobapply-placeholder-note {
+  font-size: 0.8rem;
+  color: #9ca3af;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.jobapply-placeholder-note code {
+  background-color: #f3f4f6;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.78rem;
+}
+
+.jobapply-success {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.jobapply-success-icon {
+  font-size: 2.5rem;
+  margin-bottom: 12px;
+}

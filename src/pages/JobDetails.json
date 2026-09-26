@@ -1,0 +1,2347 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Product Designer",
+    "company": "TechSolutions Inc.",
+    "location": "San Francisco, CA (Remote)",
+    "salaryMin": 140,
+    "salaryMax": 180,
+    "salaryDisplay": "$140k - $180k",
+    "type": "CONTRACT",
+    "employmentType": "contract",
+    "category": "design",
+    "experience": "senior",
+    "timeAgo": "Posted 2 hours ago",
+    "hoursAgo": 2,
+    "badgeClass": "marketplace-badge-contract",
+    "bookmarked": false,
+    "datePosted": "18th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "CONTRACT",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      },
+      {
+        "id": 2,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "TechSolutions Inc."
+      },
+      { "id": 2, "icon": "👥", "label": "Employee Type:", "value": "Contract" },
+      {
+        "id": 3,
+        "icon": "📍",
+        "label": "Location:",
+        "value": "San Francisco, CA (Remote)"
+      },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Senior Product Designer"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "+5 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "B.Des / HCI or equivalent"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$140k - $180k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "18th July, 2026"
+      }
+    ],
+    "about": "We are looking for a Senior Product Designer to join our core product team. You will be responsible for defining the user experience of our next-generation enterprise platforms. You'll work closely with product managers, engineers, and stakeholders to translate complex requirements into elegant, intuitive designs. This role requires a balance of strategic thinking, visual excellence, and a deep empathy for users.",
+    "responsibilities": [
+      "Lead the end-to-end design process for major product initiatives, from discovery to high-fidelity handoff.",
+      "Facilitate design sprints and workshops to align cross-functional teams around user-centric goals.",
+      "Collaborate with the design systems team to ensure consistency and scalability across the entire ecosystem.",
+      "Conduct user research and usability testing to validate design decisions and iterate based on data.",
+      "Mentor junior and mid-level designers, fostering a culture of feedback and continuous learning."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "Remote-first Culture" },
+      { "id": 2, "icon": "❤️", "text": "Premium Health Insurance" },
+      { "id": 3, "icon": "🌴", "text": "Unlimited PTO" },
+      { "id": 4, "icon": "📚", "text": "Learning Stipend" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Lead Backend Developer",
+    "company": "FinStream Group",
+    "location": "New York, NY",
+    "salaryMin": 120,
+    "salaryMax": 160,
+    "salaryDisplay": "$120k - $160k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "engineering",
+    "experience": "senior",
+    "timeAgo": "Posted 5 hours ago",
+    "hoursAgo": 5,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "18th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "ON-SITE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "FinStream Group"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "New York, NY" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Lead Backend Developer"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "+6 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "B.Tech / BS in CS or equivalent"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$120k - $160k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "18th July, 2026"
+      }
+    ],
+    "about": "FinStream Group is hiring a Lead Backend Developer to own the architecture behind our real-time payments infrastructure. You'll design and scale distributed services that process millions of transactions a day, while guiding a small team of backend engineers on best practices, code quality, and system reliability.",
+    "responsibilities": [
+      "Architect and maintain high-throughput, low-latency backend services using Node.js and distributed queues.",
+      "Own the technical roadmap for the payments platform, balancing scalability with regulatory compliance.",
+      "Review pull requests and set engineering standards across the backend team.",
+      "Partner with DevOps to improve deployment pipelines, observability, and incident response.",
+      "Provide technical mentorship to mid-level and junior backend engineers."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "💰", "text": "Performance Bonus" },
+      { "id": 2, "icon": "❤️", "text": "Premium Health Insurance" },
+      { "id": 3, "icon": "🏋️", "text": "Gym Membership" },
+      { "id": 4, "icon": "📈", "text": "Equity Options" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Marketing Operations Specialist",
+    "company": "EcoGrowth",
+    "location": "Austin, TX (Remote)",
+    "salaryMin": 90,
+    "salaryMax": 120,
+    "salaryDisplay": "$90k - $120k",
+    "type": "REMOTE",
+    "employmentType": "fulltime",
+    "category": "marketing",
+    "experience": "mid",
+    "timeAgo": "Posted 1 day ago",
+    "hoursAgo": 24,
+    "badgeClass": "marketplace-badge-remote",
+    "bookmarked": false,
+    "datePosted": "17th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      { "id": 1, "icon": "🏢", "label": "Company Name:", "value": "EcoGrowth" },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      {
+        "id": 3,
+        "icon": "📍",
+        "label": "Location:",
+        "value": "Austin, TX (Remote)"
+      },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Marketing Operations Specialist"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "+3 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Bachelor's in Marketing or related field"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$90k - $120k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "17th July, 2026"
+      }
+    ],
+    "about": "EcoGrowth is looking for a Marketing Operations Specialist to keep our growth engine running smoothly. You'll own the tooling, data hygiene, and campaign workflows that let our marketing team move fast without breaking things, working closely with demand gen, content, and analytics.",
+    "responsibilities": [
+      "Manage and optimize the marketing automation stack (CRM, email, attribution tooling).",
+      "Build and maintain dashboards that track campaign performance and pipeline contribution.",
+      "Partner with demand generation to ensure clean lead routing and scoring.",
+      "Audit and improve data quality across marketing systems.",
+      "Document processes and train team members on marketing ops workflows."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "Remote-first Culture" },
+      { "id": 2, "icon": "🌱", "text": "Sustainability Stipend" },
+      { "id": 3, "icon": "🌴", "text": "Unlimited PTO" },
+      { "id": 4, "icon": "💻", "text": "Home Office Budget" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Visual Brand Designer",
+    "company": "Creatives Hub",
+    "location": "Los Angeles, CA",
+    "salaryMin": 110,
+    "salaryMax": 140,
+    "salaryDisplay": "$110k - $140k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "design",
+    "experience": "mid",
+    "timeAgo": "Posted 2 days ago",
+    "hoursAgo": 48,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "16th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "ON-SITE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "Creatives Hub"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      {
+        "id": 3,
+        "icon": "📍",
+        "label": "Location:",
+        "value": "Los Angeles, CA"
+      },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Visual Brand Designer"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "+3 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "BFA in Design or equivalent portfolio"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$110k - $140k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "16th July, 2026"
+      }
+    ],
+    "about": "Creatives Hub is seeking a Visual Brand Designer to shape how our clients' brands look and feel across every touchpoint. You'll craft campaign visuals, brand guidelines, and marketing collateral that stay consistent with each client's identity while pushing creative boundaries.",
+    "responsibilities": [
+      "Design brand assets, campaign visuals, and marketing collateral across digital and print.",
+      "Maintain and evolve brand guidelines for multiple client accounts.",
+      "Collaborate with copywriters and account managers to bring campaign concepts to life.",
+      "Present design concepts to clients and incorporate feedback efficiently.",
+      "Stay current on design trends and bring fresh visual ideas to the studio."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🎨", "text": "Creative Fridays" },
+      { "id": 2, "icon": "❤️", "text": "Health Insurance" },
+      { "id": 3, "icon": "🌴", "text": "20 Days PTO" },
+      { "id": 4, "icon": "📚", "text": "Conference Budget" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Engineering Manager",
+    "company": "Vertex Cloud",
+    "location": "Seattle, WA",
+    "salaryMin": 160,
+    "salaryMax": 200,
+    "salaryDisplay": "$160k - $200k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "management",
+    "experience": "senior",
+    "timeAgo": "Posted 3 days ago",
+    "hoursAgo": 72,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "15th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "MANAGEMENT",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "Vertex Cloud"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Seattle, WA" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Engineering Manager"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "+8 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "B.Tech/M.Tech in CS or equivalent experience"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$160k - $200k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "15th July, 2026"
+      }
+    ],
+    "about": "Vertex Cloud is looking for an Engineering Manager to lead one of our core infrastructure teams. You'll balance people leadership with technical direction, helping a team of 6-8 engineers ship reliable, scalable cloud services while growing in their careers.",
+    "responsibilities": [
+      "Manage and grow a team of backend and infrastructure engineers.",
+      "Set technical direction and quarterly roadmaps in partnership with product leadership.",
+      "Run regular 1:1s, performance reviews, and career development conversations.",
+      "Ensure engineering best practices around code quality, testing, and incident response.",
+      "Partner cross-functionally with product, design, and other engineering managers."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "💰", "text": "Performance Bonus" },
+      { "id": 2, "icon": "📈", "text": "Equity Options" },
+      { "id": 3, "icon": "❤️", "text": "Premium Health Insurance" },
+      { "id": 4, "icon": "🌴", "text": "Unlimited PTO" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Forge",
+    "location": "Remote",
+    "salaryMin": 55,
+    "salaryMax": 75,
+    "salaryDisplay": "$55k - $75k",
+    "type": "INTERNSHIP",
+    "employmentType": "internship",
+    "category": "engineering",
+    "experience": "entry",
+    "timeAgo": "Posted 4 days ago",
+    "hoursAgo": 96,
+    "badgeClass": "marketplace-badge-contract",
+    "bookmarked": false,
+    "datePosted": "14th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "INTERNSHIP",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      },
+      {
+        "id": 2,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "Pixel Forge"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Internship"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Remote" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Junior Frontend Developer"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "0-1 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Currently pursuing or recent CS degree"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$55k - $75k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "14th July, 2026"
+      }
+    ],
+    "about": "Pixel Forge is offering a Junior Frontend Developer internship for someone eager to learn React in a real production codebase. You'll work alongside senior engineers on actual product features, with mentorship built into every sprint.",
+    "responsibilities": [
+      "Build and style UI components under the guidance of senior frontend engineers.",
+      "Fix bugs and small feature tickets from the team backlog.",
+      "Participate in code reviews to learn team conventions and best practices.",
+      "Write basic unit tests for the components you build.",
+      "Attend daily standups and sprint planning sessions."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "Fully Remote" },
+      { "id": 2, "icon": "🎓", "text": "Mentorship Program" },
+      { "id": 3, "icon": "💻", "text": "Laptop Stipend" },
+      { "id": 4, "icon": "📈", "text": "Path to Full-time Offer" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Part-time Content Marketer",
+    "company": "Bloom Media",
+    "location": "Chicago, IL",
+    "salaryMin": 50,
+    "salaryMax": 70,
+    "salaryDisplay": "$50k - $70k",
+    "type": "PART-TIME",
+    "employmentType": "parttime",
+    "category": "marketing",
+    "experience": "entry",
+    "timeAgo": "Posted 5 days ago",
+    "hoursAgo": 120,
+    "badgeClass": "marketplace-badge-remote",
+    "bookmarked": false,
+    "datePosted": "13th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "PART-TIME",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      },
+      {
+        "id": 2,
+        "label": "HYBRID",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "Bloom Media"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Part Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Chicago, IL" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Content Marketer"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "1-2 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Bachelor's in Communications or related field"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$50k - $70k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "13th July, 2026"
+      }
+    ],
+    "about": "Bloom Media is hiring a Part-time Content Marketer to write and manage content across blog, social, and email for a handful of client brands. This is a great fit if you want flexible hours while building a strong portfolio of published work.",
+    "responsibilities": [
+      "Write blog posts, social captions, and email copy for assigned client accounts.",
+      "Maintain a monthly content calendar and keep deadlines on track.",
+      "Research industry trends to keep content ideas fresh and relevant.",
+      "Collaborate with designers on visual assets for campaigns.",
+      "Report on content performance and suggest improvements."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "⏰", "text": "Flexible Hours" },
+      { "id": 2, "icon": "🏠", "text": "Hybrid Schedule" },
+      { "id": 3, "icon": "📚", "text": "Portfolio Building Projects" },
+      { "id": 4, "icon": "📈", "text": "Path to Full-time" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Data Scientist",
+    "company": "Analytica Insights",
+    "location": "Boston, MA",
+    "salaryMin": 130,
+    "salaryMax": 160,
+    "salaryDisplay": "$130k - $160k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "data",
+    "experience": "mid",
+    "timeAgo": "Posted 1 week ago",
+    "hoursAgo": 168,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "14th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "HYBRID",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "Analytica Insights"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Boston, MA" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Data Scientist"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3-5 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "MS in Statistics, CS, or Math"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$130k - $160k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "14th July, 2026"
+      }
+    ],
+    "about": "We are seeking a talented Data Scientist to help us build predictive models and uncover actionable insights from large datasets. You will be working directly with the core product team to improve our recommendation algorithms.",
+    "responsibilities": [
+      "Develop and deploy machine learning models to production environments.",
+      "Analyze massive amounts of raw data to discover trends and patterns.",
+      "Collaborate with data engineers to optimize data pipelines.",
+      "Create data visualizations to present findings to stakeholders.",
+      "A/B test product features based on model predictions."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "⚕️", "text": "Comprehensive Health Plan" },
+      { "id": 2, "icon": "💻", "text": "Equipment Allowance" },
+      { "id": 3, "icon": "🎓", "text": "Continuing Education" },
+      { "id": 4, "icon": "🌴", "text": "Generous PTO" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Product Manager",
+    "company": "NovaTech",
+    "location": "Toronto, ON (Remote)",
+    "salaryMin": 115,
+    "salaryMax": 150,
+    "salaryDisplay": "$115k - $150k",
+    "type": "REMOTE",
+    "employmentType": "fulltime",
+    "category": "product",
+    "experience": "mid",
+    "timeAgo": "Posted 3 days ago",
+    "hoursAgo": 72,
+    "badgeClass": "marketplace-badge-remote",
+    "bookmarked": false,
+    "datePosted": "18th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      { "id": 1, "icon": "🏢", "label": "Company Name:", "value": "NovaTech" },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      {
+        "id": 3,
+        "icon": "📍",
+        "label": "Location:",
+        "value": "Toronto, ON (Remote)"
+      },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Product Manager"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "4+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Bachelor's Degree or equivalent"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$115k - $150k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "18th July, 2026"
+      }
+    ],
+    "about": "NovaTech is looking for a strategic Product Manager to own our core user onboarding experience. You will drive the product lifecycle from conception to launch, ensuring we deliver immense value to our new users seamlessly.",
+    "responsibilities": [
+      "Define product vision, strategy, and roadmap for the onboarding flow.",
+      "Work closely with engineering, design, and marketing teams to execute product plans.",
+      "Analyze user feedback and metrics to iterate and improve features.",
+      "Prioritize backlog based on business and customer impact.",
+      "Communicate product updates to internal and external stakeholders."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "Work from Anywhere" },
+      { "id": 2, "icon": "📈", "text": "Stock Options" },
+      { "id": 3, "icon": "🧘", "text": "Wellness Stipend" },
+      { "id": 4, "icon": "✈️", "text": "Annual Retreat" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "DevOps Engineer",
+    "company": "CloudScale",
+    "location": "Denver, CO",
+    "salaryMin": 125,
+    "salaryMax": 170,
+    "salaryDisplay": "$125k - $170k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "engineering",
+    "experience": "senior",
+    "timeAgo": "Posted 2 weeks ago",
+    "hoursAgo": 336,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "07th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "ON-SITE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "CloudScale"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Denver, CO" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "DevOps Engineer"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "5+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "BS in CS or strong sysadmin background"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$125k - $170k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "07th July, 2026"
+      }
+    ],
+    "about": "CloudScale is on the hunt for a DevOps Engineer to help build and maintain our high-availability cloud infrastructure. You'll be the bridge between our development and IT operations, automating everything you touch.",
+    "responsibilities": [
+      "Manage AWS infrastructure using Terraform and Ansible.",
+      "Build and maintain robust CI/CD pipelines in GitLab CI.",
+      "Monitor system performance and troubleshoot infrastructure issues.",
+      "Implement and maintain security best practices across all servers.",
+      "Participate in on-call rotations to ensure 99.99% uptime."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "💰", "text": "401k Match" },
+      { "id": 2, "icon": "❤️", "text": "Full Health/Dental" },
+      { "id": 3, "icon": "☕", "text": "Stocked Kitchen" },
+      { "id": 4, "icon": "🚴", "text": "Commuter Benefits" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "UX Researcher",
+    "company": "HumanCentric",
+    "location": "London, UK (Hybrid)",
+    "salaryMin": 75,
+    "salaryMax": 105,
+    "salaryDisplay": "£75k - £105k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "design",
+    "experience": "mid",
+    "timeAgo": "Posted 4 hours ago",
+    "hoursAgo": 4,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "21st July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "HYBRID",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "HumanCentric"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      {
+        "id": 3,
+        "icon": "📍",
+        "label": "Location:",
+        "value": "London, UK (Hybrid)"
+      },
+      { "id": 4, "icon": "🖥️", "label": "Job Type:", "value": "UX Researcher" },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Degree in Psychology, HCI, or related"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "£75k - £105k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "21st July, 2026"
+      }
+    ],
+    "about": "We are seeking a deeply empathetic UX Researcher to uncover user needs and validate concepts for our global client base. You will conduct qualitative and quantitative research to guide our design teams.",
+    "responsibilities": [
+      "Plan and conduct generative and evaluative user research studies.",
+      "Analyze data and synthesize actionable insights and user personas.",
+      "Facilitate workshops to present findings to cross-functional teams.",
+      "Collaborate with UX/UI designers to ensure research informs design decisions.",
+      "Advocate for the user throughout the product development lifecycle."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🚇", "text": "Transit Pass" },
+      { "id": 2, "icon": "📚", "text": "Book Stipend" },
+      { "id": 3, "icon": "🌴", "text": "25 Days Holiday" },
+      { "id": 4, "icon": "❤️", "text": "Private Healthcare" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Account Executive",
+    "company": "SalesVelocity",
+    "location": "Chicago, IL",
+    "salaryMin": 80,
+    "salaryMax": 100,
+    "salaryDisplay": "$80k - $100k + Commission",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "sales",
+    "experience": "mid",
+    "timeAgo": "Posted 1 day ago",
+    "hoursAgo": 24,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "20th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "SALES",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "SalesVelocity"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Chicago, IL" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Account Executive"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "2-4 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Bachelors or equivalent sales experience"
+      },
+      {
+        "id": 7,
+        "icon": "💲",
+        "label": "Salary:",
+        "value": "$80k - $100k base"
+      },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "20th July, 2026"
+      }
+    ],
+    "about": "Are you a closer? SalesVelocity is looking for an Account Executive to drive revenue growth in the mid-market SaaS sector. You will manage the entire sales cycle from discovery to signature.",
+    "responsibilities": [
+      "Manage a pipeline of qualified leads to close new business.",
+      "Conduct engaging product demonstrations for prospective clients.",
+      "Negotiate contract terms and pricing to maximize revenue.",
+      "Maintain accurate forecasting and updates in Salesforce.",
+      "Collaborate with SDRs to strategize outbound campaigns."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "💸", "text": "Uncapped Commission" },
+      { "id": 2, "icon": "🏆", "text": "President's Club Trip" },
+      { "id": 3, "icon": "❤️", "text": "Health Benefits" },
+      { "id": 4, "icon": "🍽️", "text": "Monthly Team Lunches" }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "HR Generalist",
+    "company": "PeopleFirst",
+    "location": "Remote",
+    "salaryMin": 65,
+    "salaryMax": 85,
+    "salaryDisplay": "$65k - $85k",
+    "type": "REMOTE",
+    "employmentType": "fulltime",
+    "category": "hr",
+    "experience": "entry",
+    "timeAgo": "Posted 12 hours ago",
+    "hoursAgo": 12,
+    "badgeClass": "marketplace-badge-remote",
+    "bookmarked": false,
+    "datePosted": "20th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "PeopleFirst"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Remote" },
+      { "id": 4, "icon": "🖥️", "label": "Job Type:", "value": "HR Generalist" },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "1-3 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "BA in Human Resources or Business"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$65k - $85k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "20th July, 2026"
+      }
+    ],
+    "about": "We are seeking a dedicated HR Generalist to support our rapidly growing remote workforce. You will be the go-to person for employee relations, onboarding, and implementing our remote-first culture initiatives.",
+    "responsibilities": [
+      "Facilitate seamless onboarding and offboarding processes for all employees.",
+      "Serve as a primary point of contact for employee HR inquiries.",
+      "Administer company benefits programs and answer related questions.",
+      "Assist in coordinating remote team-building events and wellness programs.",
+      "Maintain compliance with state and federal employment laws."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "Fully Remote" },
+      { "id": 2, "icon": "🧘", "text": "Mental Health Days" },
+      { "id": 3, "icon": "💻", "text": "Home Office Setup" },
+      { "id": 4, "icon": "🌴", "text": "Generous PTO" }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "iOS Developer",
+    "company": "Appify",
+    "location": "Berlin, Germany",
+    "salaryMin": 80,
+    "salaryMax": 110,
+    "salaryDisplay": "€80k - €110k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "engineering",
+    "experience": "mid",
+    "timeAgo": "Posted 2 days ago",
+    "hoursAgo": 48,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "19th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "ON-SITE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      { "id": 1, "icon": "🏢", "label": "Company Name:", "value": "Appify" },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      {
+        "id": 3,
+        "icon": "📍",
+        "label": "Location:",
+        "value": "Berlin, Germany"
+      },
+      { "id": 4, "icon": "🖥️", "label": "Job Type:", "value": "iOS Developer" },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "BS in CS or strong Swift portfolio"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "€80k - €110k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "19th July, 2026"
+      }
+    ],
+    "about": "Join Appify as an iOS Developer to build beautiful, fluid mobile experiences. You will be working heavily with Swift and SwiftUI to craft an app used by millions of users daily.",
+    "responsibilities": [
+      "Develop and maintain advanced applications for the iOS platform.",
+      "Collaborate with cross-functional teams to define and design new features.",
+      "Ensure the performance, quality, and responsiveness of applications.",
+      "Identify and correct bottlenecks and fix bugs.",
+      "Help maintain code quality, organization, and automatization."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "📱", "text": "Newest Apple Gear" },
+      { "id": 2, "icon": "🍺", "text": "Friday Happy Hours" },
+      { "id": 3, "icon": "🇩🇪", "text": "German Lessons" },
+      { "id": 4, "icon": "✈️", "text": "Relocation Support" }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "SEO Specialist",
+    "company": "SearchEngineers",
+    "location": "Remote",
+    "salaryMin": 60,
+    "salaryMax": 85,
+    "salaryDisplay": "$60k - $85k",
+    "type": "CONTRACT",
+    "employmentType": "contract",
+    "category": "marketing",
+    "experience": "mid",
+    "timeAgo": "Posted 5 hours ago",
+    "hoursAgo": 5,
+    "badgeClass": "marketplace-badge-contract",
+    "bookmarked": false,
+    "datePosted": "21st July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "CONTRACT",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      },
+      {
+        "id": 2,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "SearchEngineers"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Contract (12 mos)"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Remote" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "SEO Specialist"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Proven track record in organic growth"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$60k - $85k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "21st July, 2026"
+      }
+    ],
+    "about": "We need an analytical SEO Specialist to manage organic search strategies for a portfolio of e-commerce clients. You'll dive deep into technical SEO, keyword research, and link-building campaigns.",
+    "responsibilities": [
+      "Conduct in-depth keyword research and competitor analysis.",
+      "Perform technical SEO audits and provide actionable recommendations.",
+      "Optimize website content, landing pages, and product descriptions.",
+      "Develop and execute effective link-building strategies.",
+      "Track and report on organic search performance and KPIs."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "⏰", "text": "Flexible Schedule" },
+      { "id": 2, "icon": "🏠", "text": "Work from Anywhere" },
+      { "id": 3, "icon": "📈", "text": "Bonus on Traffic Milestones" },
+      { "id": 4, "icon": "🛠️", "text": "Premium SEO Tools provided" }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Customer Success Manager",
+    "company": "SaaSy Solutions",
+    "location": "Atlanta, GA",
+    "salaryMin": 70,
+    "salaryMax": 95,
+    "salaryDisplay": "$70k - $95k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "customer-success",
+    "experience": "mid",
+    "timeAgo": "Posted 3 days ago",
+    "hoursAgo": 72,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "18th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "HYBRID",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "SaaSy Solutions"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Atlanta, GA" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Customer Success Manager"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "BA/BS preferred"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$70k - $95k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "18th July, 2026"
+      }
+    ],
+    "about": "As a Customer Success Manager, you will be the trusted advisor to our enterprise clients. You will ensure they achieve their business goals using our platform, driving adoption, retention, and expansion.",
+    "responsibilities": [
+      "Own the entire post-sales relationship for a book of enterprise clients.",
+      "Conduct regular business reviews (EBRs/QBRs) with key stakeholders.",
+      "Identify upsell and cross-sell opportunities within your client base.",
+      "Advocate for customer needs to the internal product and engineering teams.",
+      "Monitor account health and proactively mitigate churn risks."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "❤️", "text": "Health & Dental" },
+      { "id": 2, "icon": "💰", "text": "Retention Bonuses" },
+      { "id": 3, "icon": "🌴", "text": "Unlimited PTO" },
+      { "id": 4, "icon": "🚗", "text": "Parking Stipend" }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "QA Engineer",
+    "company": "BugFree Co.",
+    "location": "Remote",
+    "salaryMin": 85,
+    "salaryMax": 110,
+    "salaryDisplay": "$85k - $110k",
+    "type": "REMOTE",
+    "employmentType": "fulltime",
+    "category": "engineering",
+    "experience": "mid",
+    "timeAgo": "Posted 1 week ago",
+    "hoursAgo": 168,
+    "badgeClass": "marketplace-badge-remote",
+    "bookmarked": false,
+    "datePosted": "14th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "BugFree Co."
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Remote" },
+      { "id": 4, "icon": "🖥️", "label": "Job Type:", "value": "QA Engineer" },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "2-5 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Experience with Cypress/Selenium"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$85k - $110k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "14th July, 2026"
+      }
+    ],
+    "about": "BugFree Co. is looking for an automated QA Engineer to ensure our software releases are rock solid. You will be building out our automated testing suite and helping developers catch issues before they reach production.",
+    "responsibilities": [
+      "Design, develop, and maintain automated test scripts using modern frameworks.",
+      "Perform manual testing for complex, edge-case scenarios.",
+      "Integrate automated testing into the CI/CD pipeline.",
+      "Document and track defects to resolution using Jira.",
+      "Collaborate with developers to understand feature requirements and edge cases."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "Work from Anywhere" },
+      { "id": 2, "icon": "💻", "text": "Home Office Budget" },
+      { "id": 3, "icon": "📚", "text": "Learning Stipend" },
+      { "id": 4, "icon": "🌴", "text": "Flexible Holidays" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Security Analyst",
+    "company": "DefendNet",
+    "location": "Washington, D.C.",
+    "salaryMin": 95,
+    "salaryMax": 130,
+    "salaryDisplay": "$95k - $130k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "security",
+    "experience": "mid",
+    "timeAgo": "Posted 2 days ago",
+    "hoursAgo": 48,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "19th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "ON-SITE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      { "id": 1, "icon": "🏢", "label": "Company Name:", "value": "DefendNet" },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      {
+        "id": 3,
+        "icon": "📍",
+        "label": "Location:",
+        "value": "Washington, D.C."
+      },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Security Analyst"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "CompTIA Security+ or CISSP"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$95k - $130k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "19th July, 2026"
+      }
+    ],
+    "about": "As a Security Analyst at DefendNet, you will be on the front lines protecting our network infrastructure from cyber threats. You will monitor security logs, analyze vulnerabilities, and respond to incidents.",
+    "responsibilities": [
+      "Monitor SIEM alerts and investigate suspicious network activity.",
+      "Conduct regular vulnerability assessments and penetration testing.",
+      "Respond to security incidents and assist with post-incident forensics.",
+      "Develop and enforce information security policies and procedures.",
+      "Educate employees on security best practices and phishing awareness."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🔒", "text": "Clearance Sponsorship" },
+      { "id": 2, "icon": "🎓", "text": "Certification Reimbursement" },
+      { "id": 3, "icon": "❤️", "text": "Top-Tier Medical" },
+      { "id": 4, "icon": "💰", "text": "401k with 5% Match" }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Full Stack Developer",
+    "company": "StartUp Builder",
+    "location": "Remote",
+    "salaryMin": 100,
+    "salaryMax": 140,
+    "salaryDisplay": "$100k - $140k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "engineering",
+    "experience": "mid",
+    "timeAgo": "Posted 6 hours ago",
+    "hoursAgo": 6,
+    "badgeClass": "marketplace-badge-remote",
+    "bookmarked": false,
+    "datePosted": "21st July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "StartUp Builder"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Remote" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Full Stack Developer"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "4+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Proficient in React & Node.js"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$100k - $140k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "21st July, 2026"
+      }
+    ],
+    "about": "We are a fast-paced agency looking for a versatile Full Stack Developer. You will be building MVP applications for early-stage startups using the MERN stack.",
+    "responsibilities": [
+      "Develop scalable web applications from scratch using React, Node, and MongoDB.",
+      "Work directly with startup founders to scope and deliver features.",
+      "Design and implement RESTful APIs and database schemas.",
+      "Deploy applications to AWS or Vercel and handle basic DevOps.",
+      "Write clean, maintainable, and well-documented code."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "Remote Flexibility" },
+      { "id": 2, "icon": "📈", "text": "Profit Sharing" },
+      { "id": 3, "icon": "💻", "text": "Latest MacBook Pro" },
+      { "id": 4, "icon": "☕", "text": "Coffee Subscription" }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Graphic Designer",
+    "company": "PrintPerfect",
+    "location": "Portland, OR",
+    "salaryMin": 55,
+    "salaryMax": 75,
+    "salaryDisplay": "$55k - $75k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "design",
+    "experience": "entry",
+    "timeAgo": "Posted 4 days ago",
+    "hoursAgo": 96,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "17th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "ON-SITE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "PrintPerfect"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Portland, OR" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Graphic Designer"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "1-3 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "BFA or Portfolio"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$55k - $75k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "17th July, 2026"
+      }
+    ],
+    "about": "PrintPerfect is looking for a creative Graphic Designer to join our in-house marketing team. You will be designing a variety of print materials including brochures, packaging, and event signage.",
+    "responsibilities": [
+      "Create compelling print-ready designs following brand guidelines.",
+      "Collaborate with the marketing team on campaign concepts.",
+      "Prepare final press-ready files based on supplied specifications.",
+      "Review color proofs to ensure high-quality output.",
+      "Manage multiple design projects and meet tight deadlines."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🎨", "text": "Creative Workspace" },
+      { "id": 2, "icon": "❤️", "text": "Healthcare Plan" },
+      { "id": 3, "icon": "🐕", "text": "Dog-Friendly Office" },
+      { "id": 4, "icon": "🌴", "text": "15 Days PTO" }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Financial Analyst",
+    "company": "Apex Capital",
+    "location": "New York, NY",
+    "salaryMin": 90,
+    "salaryMax": 125,
+    "salaryDisplay": "$90k - $125k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "finance",
+    "experience": "mid",
+    "timeAgo": "Posted 5 days ago",
+    "hoursAgo": 120,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "16th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "FINANCE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "Apex Capital"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "New York, NY" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Financial Analyst"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3-5 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "BS in Finance / CFA track"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$90k - $125k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "16th July, 2026"
+      }
+    ],
+    "about": "Apex Capital is seeking a highly analytical Financial Analyst to join our FP&A team. You will be responsible for forecasting, budget planning, and analyzing company performance to support executive decision-making.",
+    "responsibilities": [
+      "Prepare monthly, quarterly, and annual financial reports and forecasts.",
+      "Analyze current and past financial data and performance metrics.",
+      "Develop financial models to support strategic initiatives.",
+      "Identify trends, advise company on risks, and recommend improvements.",
+      "Collaborate across departments to align budget goals."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "💰", "text": "Year-End Bonus" },
+      { "id": 2, "icon": "📈", "text": "401k Matching" },
+      { "id": 3, "icon": "❤️", "text": "Premium Health Coverage" },
+      { "id": 4, "icon": "🍽️", "text": "Catered Lunches" }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Machine Learning Engineer",
+    "company": "DeepAI",
+    "location": "San Francisco, CA (Hybrid)",
+    "salaryMin": 150,
+    "salaryMax": 210,
+    "salaryDisplay": "$150k - $210k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "engineering",
+    "experience": "senior",
+    "timeAgo": "Posted 1 week ago",
+    "hoursAgo": 168,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "14th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "HYBRID",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      { "id": 1, "icon": "🏢", "label": "Company Name:", "value": "DeepAI" },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      {
+        "id": 3,
+        "icon": "📍",
+        "label": "Location:",
+        "value": "San Francisco, CA (Hybrid)"
+      },
+      { "id": 4, "icon": "🖥️", "label": "Job Type:", "value": "ML Engineer" },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "5+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "MS/PhD in CS or AI/ML"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$150k - $210k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "14th July, 2026"
+      }
+    ],
+    "about": "DeepAI is pushing the boundaries of natural language processing. We are looking for a Machine Learning Engineer to design, train, and deploy large language models at scale.",
+    "responsibilities": [
+      "Design and implement deep learning models using PyTorch or TensorFlow.",
+      "Optimize models for inference speed and scale in production.",
+      "Build robust data pipelines to feed training algorithms.",
+      "Stay current with state-of-the-art research in generative AI.",
+      "Work alongside backend engineers to integrate models into APIs."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "📈", "text": "Generous Equity" },
+      { "id": 2, "icon": "🍽️", "text": "Daily Catered Meals" },
+      { "id": 3, "icon": "❤️", "text": "Full Health Coverage" },
+      { "id": 4, "icon": "🚗", "text": "Commuter Subsidy" }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Copywriter",
+    "company": "BrandStory",
+    "location": "Remote",
+    "salaryMin": 55,
+    "salaryMax": 80,
+    "salaryDisplay": "$55k - $80k",
+    "type": "CONTRACT",
+    "employmentType": "contract",
+    "category": "marketing",
+    "experience": "mid",
+    "timeAgo": "Posted 2 hours ago",
+    "hoursAgo": 2,
+    "badgeClass": "marketplace-badge-contract",
+    "bookmarked": false,
+    "datePosted": "21st July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "CONTRACT",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      },
+      {
+        "id": 2,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "BrandStory"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Contract (6 mos)"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Remote" },
+      { "id": 4, "icon": "🖥️", "label": "Job Type:", "value": "Copywriter" },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Portfolio of converting copy"
+      },
+      {
+        "id": 7,
+        "icon": "💲",
+        "label": "Salary:",
+        "value": "$55k - $80k pro-rata"
+      },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "21st July, 2026"
+      }
+    ],
+    "about": "We need a sharp, witty Copywriter to help define the voice of a new consumer brand. You will write everything from website landing pages to email sequences and ad copy.",
+    "responsibilities": [
+      "Write clear, compelling copy for various mediums (ads, web, email).",
+      "Collaborate with designers to ensure copy and visuals work together.",
+      "Edit and proofread copy to ensure grammatical accuracy and brand consistency.",
+      "Conduct A/B testing on headlines and CTAs to improve conversion rates.",
+      "Interpret creative briefs to develop and produce creative concepts."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "100% Remote" },
+      { "id": 2, "icon": "⏰", "text": "Flexible Hours" },
+      { "id": 3, "icon": "📚", "text": "Skillshare Membership" },
+      { "id": 4, "icon": "🤝", "text": "Opportunity for Extension" }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Cloud Architect",
+    "company": "Enterprise IT",
+    "location": "Dallas, TX",
+    "salaryMin": 160,
+    "salaryMax": 220,
+    "salaryDisplay": "$160k - $220k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "engineering",
+    "experience": "senior",
+    "timeAgo": "Posted 3 days ago",
+    "hoursAgo": 72,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "18th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "ON-SITE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "Enterprise IT"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Dallas, TX" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Cloud Architect"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "10+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "AWS/Azure Solutions Architect Certified"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$160k - $220k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "18th July, 2026"
+      }
+    ],
+    "about": "Enterprise IT is looking for a seasoned Cloud Architect to lead our legacy migration to Azure. You will design secure, highly available, and scalable cloud solutions for our global operations.",
+    "responsibilities": [
+      "Design target state cloud architecture for complex enterprise systems.",
+      "Develop migration strategies for on-premise applications to Azure.",
+      "Establish cloud governance, security, and compliance policies.",
+      "Lead and mentor a team of cloud engineers and system administrators.",
+      "Evaluate new cloud technologies and present business cases to leadership."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "💰", "text": "Annual Bonus" },
+      { "id": 2, "icon": "❤️", "text": "Premium Health Coverage" },
+      { "id": 3, "icon": "📈", "text": "Stock Purchase Plan" },
+      { "id": 4, "icon": "🎓", "text": "Tuition Reimbursement" }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Scrum Master",
+    "company": "AgileMinds",
+    "location": "Remote",
+    "salaryMin": 90,
+    "salaryMax": 120,
+    "salaryDisplay": "$90k - $120k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "product",
+    "experience": "mid",
+    "timeAgo": "Posted 4 days ago",
+    "hoursAgo": 96,
+    "badgeClass": "marketplace-badge-remote",
+    "bookmarked": false,
+    "datePosted": "17th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "AgileMinds"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Remote" },
+      { "id": 4, "icon": "🖥️", "label": "Job Type:", "value": "Scrum Master" },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "CSM or PSM I Certification"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$90k - $120k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "17th July, 2026"
+      }
+    ],
+    "about": "We are seeking a dedicated Scrum Master to facilitate agile ceremonies and remove blockers for two of our core development squads. You will champion agile practices and help the teams optimize their velocity and quality.",
+    "responsibilities": [
+      "Facilitate sprint planning, daily stand-ups, reviews, and retrospectives.",
+      "Assist the Product Owner in maintaining and grooming the product backlog.",
+      "Identify and eliminate impediments that hinder team progress.",
+      "Coach the team on Agile principles and self-organization.",
+      "Track and communicate team velocity and sprint progress to stakeholders."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "Remote First Environment" },
+      { "id": 2, "icon": "📚", "text": "Training Budget" },
+      { "id": 3, "icon": "🌴", "text": "Unlimited PTO" },
+      { "id": 4, "icon": "❤️", "text": "Health/Vision/Dental" }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "IT Support Specialist",
+    "company": "TechCare",
+    "location": "Austin, TX",
+    "salaryMin": 45,
+    "salaryMax": 65,
+    "salaryDisplay": "$45k - $65k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "it",
+    "experience": "entry",
+    "timeAgo": "Posted 1 day ago",
+    "hoursAgo": 24,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "20th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "ON-SITE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      { "id": 1, "icon": "🏢", "label": "Company Name:", "value": "TechCare" },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Austin, TX" },
+      { "id": 4, "icon": "🖥️", "label": "Job Type:", "value": "IT Support" },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "1-2 Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "A+ Certification preferred"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$45k - $65k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "20th July, 2026"
+      }
+    ],
+    "about": "TechCare is looking for a friendly and proactive IT Support Specialist. You will be the first line of defense for our employees, resolving hardware, software, and networking issues efficiently.",
+    "responsibilities": [
+      "Provide Tier 1 and Tier 2 technical support to end-users on-site and remotely.",
+      "Install, configure, and troubleshoot laptops, printers, and mobile devices.",
+      "Manage user accounts and permissions in Active Directory and Google Workspace.",
+      "Maintain IT asset inventory and handle equipment procurement.",
+      "Document resolutions and update the internal IT knowledge base."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "❤️", "text": "Health Benefits" },
+      { "id": 2, "icon": "🎮", "text": "Game Room in Office" },
+      { "id": 3, "icon": "☕", "text": "Free Coffee & Snacks" },
+      { "id": 4, "icon": "🌴", "text": "15 Days PTO" }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Android Developer",
+    "company": "MobileFirst",
+    "location": "Toronto, ON",
+    "salaryMin": 90,
+    "salaryMax": 125,
+    "salaryDisplay": "$90k - $125k CAD",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "engineering",
+    "experience": "mid",
+    "timeAgo": "Posted 5 hours ago",
+    "hoursAgo": 5,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "21st July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "HYBRID",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "MobileFirst"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Toronto, ON" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Android Developer"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Strong Kotlin experience"
+      },
+      {
+        "id": 7,
+        "icon": "💲",
+        "label": "Salary:",
+        "value": "$90k - $125k CAD"
+      },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "21st July, 2026"
+      }
+    ],
+    "about": "We are seeking a talented Android Developer to help build the next generation of our mobile application. You will work with a modern Kotlin-based tech stack, focusing on performance and material design.",
+    "responsibilities": [
+      "Design and build advanced applications for the Android platform using Kotlin.",
+      "Collaborate with UX/UI designers to implement material design principles.",
+      "Work with outside data sources and RESTful APIs.",
+      "Unit-test code for robustness, including edge cases and usability.",
+      "Continuously discover, evaluate, and implement new technologies."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "📱", "text": "Phone Stipend" },
+      { "id": 2, "icon": "❤️", "text": "Health/Dental Plan" },
+      { "id": 3, "icon": "🚇", "text": "Transit Allowance" },
+      { "id": 4, "icon": "🌴", "text": "3 Weeks Vacation" }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Brand Strategist",
+    "company": "Visionary Brands",
+    "location": "New York, NY",
+    "salaryMin": 100,
+    "salaryMax": 140,
+    "salaryDisplay": "$100k - $140k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "marketing",
+    "experience": "senior",
+    "timeAgo": "Posted 2 weeks ago",
+    "hoursAgo": 336,
+    "badgeClass": "marketplace-badge-fulltime",
+    "bookmarked": false,
+    "datePosted": "07th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "ON-SITE",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "Visionary Brands"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "New York, NY" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Brand Strategist"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "6+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "BA in Marketing or Communications"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$100k - $140k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "07th July, 2026"
+      }
+    ],
+    "about": "Visionary Brands is looking for a Senior Brand Strategist to redefine how our flagship products connect with consumers. You will rely on consumer insights and cultural trends to build compelling brand narratives.",
+    "responsibilities": [
+      "Develop comprehensive brand positioning and messaging frameworks.",
+      "Conduct market research to uncover deep consumer and cultural insights.",
+      "Brief and collaborate with creative teams to bring campaigns to life.",
+      "Monitor brand health metrics and adjust strategies accordingly.",
+      "Present strategic visions to C-level executives and key stakeholders."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏆", "text": "Annual Bonus" },
+      { "id": 2, "icon": "❤️", "text": "Premium Benefits" },
+      { "id": 3, "icon": "✈️", "text": "Travel Opportunities" },
+      { "id": 4, "icon": "🥂", "text": "Summer Fridays" }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Payroll Manager",
+    "company": "Enterprise Ops",
+    "location": "Remote",
+    "salaryMin": 75,
+    "salaryMax": 95,
+    "salaryDisplay": "$75k - $95k",
+    "type": "FULL-TIME",
+    "employmentType": "fulltime",
+    "category": "finance",
+    "experience": "mid",
+    "timeAgo": "Posted 1 day ago",
+    "hoursAgo": 24,
+    "badgeClass": "marketplace-badge-remote",
+    "bookmarked": false,
+    "datePosted": "20th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "REMOTE",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      },
+      {
+        "id": 2,
+        "label": "FULL-TIME",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "Enterprise Ops"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Full Time"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "Remote" },
+      {
+        "id": 4,
+        "icon": "🖥️",
+        "label": "Job Type:",
+        "value": "Payroll Manager"
+      },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "4+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "CPP designation preferred"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "$75k - $95k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "20th July, 2026"
+      }
+    ],
+    "about": "Enterprise Ops is seeking a meticulous Payroll Manager to oversee payroll operations for our multi-state workforce. You will ensure accurate and timely processing while maintaining compliance with state and federal regulations.",
+    "responsibilities": [
+      "Manage end-to-end bi-weekly payroll processing for 500+ employees.",
+      "Ensure compliance with federal, state, and local payroll, wage, and hour laws.",
+      "Reconcile payroll data and resolve discrepancies in a timely manner.",
+      "Administer wage garnishments, deductions, and tax withholdings.",
+      "Liaise with HR and Finance teams for accurate reporting and audits."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "🏠", "text": "Work from Anywhere" },
+      { "id": 2, "icon": "❤️", "text": "Health/Vision/Dental" },
+      { "id": 3, "icon": "📈", "text": "401k Match" },
+      { "id": 4, "icon": "💻", "text": "Home Office Allowance" }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "UI Developer",
+    "company": "PixelCraft",
+    "location": "London, UK",
+    "salaryMin": 65,
+    "salaryMax": 90,
+    "salaryDisplay": "£65k - £90k",
+    "type": "CONTRACT",
+    "employmentType": "contract",
+    "category": "engineering",
+    "experience": "mid",
+    "timeAgo": "Posted 3 days ago",
+    "hoursAgo": 72,
+    "badgeClass": "marketplace-badge-contract",
+    "bookmarked": false,
+    "datePosted": "18th July, 2026",
+    "tags": [
+      {
+        "id": 1,
+        "label": "CONTRACT",
+        "styleClass": "profile-jobdetailscard-tag-blue"
+      },
+      {
+        "id": 2,
+        "label": "HYBRID",
+        "styleClass": "profile-jobdetailscard-tag-green"
+      }
+    ],
+    "sidebarInfo": [
+      {
+        "id": 1,
+        "icon": "🏢",
+        "label": "Company Name:",
+        "value": "PixelCraft"
+      },
+      {
+        "id": 2,
+        "icon": "👥",
+        "label": "Employee Type:",
+        "value": "Contract (6 Months)"
+      },
+      { "id": 3, "icon": "📍", "label": "Location:", "value": "London, UK" },
+      { "id": 4, "icon": "🖥️", "label": "Job Type:", "value": "UI Developer" },
+      { "id": 5, "icon": "💼", "label": "Experience:", "value": "3+ Years" },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "label": "Qualifications:",
+        "value": "Expert in HTML, CSS, React"
+      },
+      { "id": 7, "icon": "💲", "label": "Salary:", "value": "£65k - £90k" },
+      {
+        "id": 8,
+        "icon": "🕒",
+        "label": "Date posted:",
+        "value": "18th July, 2026"
+      }
+    ],
+    "about": "PixelCraft is looking for a front-end focused UI Developer to help migrate a legacy application into a modern React-based component library. Attention to pixel-perfect detail and accessibility is a must.",
+    "responsibilities": [
+      "Translate Figma designs into responsive, accessible, high-quality code.",
+      "Build and document reusable UI components for our internal design system.",
+      "Ensure cross-browser compatibility and mobile responsiveness.",
+      "Work closely with UI/UX designers to close the gap between design and engineering.",
+      "Optimize applications for maximum speed and scalability."
+    ],
+    "benefits": [
+      { "id": 1, "icon": "⏰", "text": "Flexible Working Hours" },
+      { "id": 2, "icon": "💻", "text": "High-end Laptop Provided" },
+      { "id": 3, "icon": "🤝", "text": "Potential to go Permanent" },
+      { "id": 4, "icon": "🚇", "text": "Travel Subsidy" }
+    ]
+  }
+]
